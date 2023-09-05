@@ -5,7 +5,7 @@
 1. Make the changes locally and make sure everything looks good.
 2. Open terminal and run: sh push_to_git.sh (this pushes your stuff to github)
 3. When you are prompted for usernames and passwords fill them in.
-4. Login to the remote server by running: ssh YOUR_USERNAME@kepler.berkeley.edu
+4. Login to the remote server by running: ssh NAME@euclid.decf.berkeley.edu
 5. Run this in the remote server: cd /var/www/html/htdocs-groups/xugroup (navigate to the correct xu group website folder)
 6. Run this in the remote server: sh update.sh (this does some git pulling file copying stuff to put things in the right place)
 7. Wait til it says "done!" and check there are no error messages, then you can exit by typing: exit
@@ -28,7 +28,7 @@
 
 For login:
 
-ssh ivanfj@kepler.berkeley.edu
+ssh name@euclid.decf.berkeley.edu
 
 cd /var/www/html/htdocs-groups/xugroup
 
