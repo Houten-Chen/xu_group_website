@@ -49,4 +49,4 @@ mv current_path/* destination_path
 
 For transfer from remote to local:
 
-scp -r ivanfj@kepler.berkeley.edu:/var/www/html/htdocs-groups/xugroup [local folder to copy to]
+scp -r name@euclid.decf.berkeley.edu:/var/www/html/htdocs-groups/xugroup [local folder to copy to]
