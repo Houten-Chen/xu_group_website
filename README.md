@@ -1,4 +1,4 @@
-# New Xu Group Website
+# Xu Group Website
 
 ## TO UPDATE WEBSITE:
 0. BEFORE MAKING ANY CHANGES: navigate to the website repo on your local computer (where you make changes) and run: git pull origin master , this command will ensure that any changes made by someone else will get pulled first and you have the most up-to-date website before you make your changes.  
